@@ -9,6 +9,7 @@ public class WebserviceDemoApplication {
 	public static void main(String[] args) {
 		
 		System.out.println("Webservice");
+		System.out.println("Web Service Demo");
 		SpringApplication.run(WebserviceDemoApplication.class, args);
 	}
 
